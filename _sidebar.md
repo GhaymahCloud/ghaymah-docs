@@ -2,3 +2,4 @@
 - [Example Second Page](second-page)
 - [Home Page](main)
 - [Create Account](create_account)
+- [New Project](new_project)
