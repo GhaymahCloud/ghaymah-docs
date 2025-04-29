@@ -1,5 +1,5 @@
-- [Read Me](README)
+- [Ghaymah Cloud](Ghaymah_Cloud)
 - [Home Page](home-page)
 - [Create Account](create_account)
 - [New Project](new_project)
-- [Ghaymah Cloud](Ghaymah_Cloud)
+- [Deploy App](new_app)
