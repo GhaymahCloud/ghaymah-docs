@@ -3,3 +3,4 @@
 - [Create Account](create_account)
 - [New Project](new_project)
 - [Deploy App](new_app)
+- [Themes](themes)
