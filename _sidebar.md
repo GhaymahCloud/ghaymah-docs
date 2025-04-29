@@ -1,6 +1,5 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
-- [Home Page](main)
+- [Home Page](home-page)
 - [Create Account](create_account)
 - [New Project](new_project)
 - [Ghaymah Cloud](Ghaymah_Cloud)
